@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33717.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardMicroService", "CardMicroService\CardMicroService.csproj", "{BEC604F7-E406-4FA7-A617-60E8E6953891}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardCreator", "CardCreator\CardCreator.csproj", "{2DF80CE1-24B3-4AD7-8E76-DC8321354868}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEC604F7-E406-4FA7-A617-60E8E6953891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEC604F7-E406-4FA7-A617-60E8E6953891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEC604F7-E406-4FA7-A617-60E8E6953891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEC604F7-E406-4FA7-A617-60E8E6953891}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DF80CE1-24B3-4AD7-8E76-DC8321354868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DF80CE1-24B3-4AD7-8E76-DC8321354868}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DF80CE1-24B3-4AD7-8E76-DC8321354868}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DF80CE1-24B3-4AD7-8E76-DC8321354868}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {407C1653-ED18-44BB-B077-D0FE513CD193}
+	EndGlobalSection
+EndGlobal
